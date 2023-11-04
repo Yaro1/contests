@@ -2,14 +2,10 @@ import sys
 
 def solution():
     n, a, b = map(int, sys.stdin.readline().split())
-    for i in range(a, b + 1):
-        if (n % i == 0) or (a <= (n % i) <= b):
-            print(i, n % i)
-            print("YES")
-            return
-    print("NO")
-
-# 2*5 + 3*17 + 1*29
+    a, b = min(a, b), max(a, b)
+    value = n % a
+    groups = n // a
+    print("YES") if value <= groups * (b - a) else print("NO")
 
 
 t = int(sys.stdin.readline().split()[0])
