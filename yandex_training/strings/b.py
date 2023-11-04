@@ -15,18 +15,7 @@ def prefix_function(s):
 
 def solution(s):
     pref = prefix_function(s)
-    print(pref)
-    i = len(pref) - 1
-    while i > -1:
-        if i < len(pref) - 1 and pref[i] == pref[i + 1]:
-            while i > -1 and pref[i] == pref[i + 1]:
-                i -= 1
-            print(i + 2)
-            return
-        if i > -1 and pref[i] == 0:
-            print(i + 1)
-            return
-        i -= 1
+    print(len(s) - pref[len(s) - 1])
 
 s = sys.stdin.readline().split()[0]
 solution(s)
