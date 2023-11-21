@@ -2,12 +2,12 @@
 https://codeforces.com/contest/1890/problem/A - ok  
 https://codeforces.com/contest/1888/problem/A - ok  
 https://codeforces.com/contest/1884/problem/A - ok  
-https://codeforces.com/contest/1886/problem/A    
-https://codeforces.com/contest/1877/problem/A    
-https://codeforces.com/contest/1875/problem/A    
-https://codeforces.com/contest/1882/problem/A    
-https://codeforces.com/contest/1879/problem/A    
-https://codeforces.com/contest/1870/problem/A  
+https://codeforces.com/contest/1886/problem/A - ok
+https://codeforces.com/contest/1877/problem/A - ok   
+https://codeforces.com/contest/1875/problem/A - ok  
+https://codeforces.com/contest/1882/problem/A - ok   
+https://codeforces.com/contest/1879/problem/A - ok   
+https://codeforces.com/contest/1870/problem/A - ok
 https://codeforces.com/contest/1867/problem/A  
 https://codeforces.com/contest/1869/problem/A  
 https://codeforces.com/contest/1858/problem/A  
