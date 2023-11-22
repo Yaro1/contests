@@ -8,14 +8,14 @@ https://codeforces.com/contest/1875/problem/A - ok
 https://codeforces.com/contest/1882/problem/A - ok   
 https://codeforces.com/contest/1879/problem/A - ok   
 https://codeforces.com/contest/1870/problem/A - ok
-https://codeforces.com/contest/1867/problem/A  
-https://codeforces.com/contest/1869/problem/A  
-https://codeforces.com/contest/1858/problem/A  
-https://codeforces.com/contest/1859/problem/A  
-https://codeforces.com/contest/1856/problem/A  
-https://codeforces.com/contest/1855/problem/A  
-https://codeforces.com/contest/1849/problem/A  
-https://codeforces.com/contest/1853/problem/A  
+https://codeforces.com/contest/1867/problem/A - ok
+https://codeforces.com/contest/1869/problem/A - ok
+https://codeforces.com/contest/1858/problem/A - ok 
+https://codeforces.com/contest/1859/problem/A - ok
+https://codeforces.com/contest/1856/problem/A - ok 
+https://codeforces.com/contest/1855/problem/A - ok 
+https://codeforces.com/contest/1849/problem/A - ok 
+https://codeforces.com/contest/1853/problem/A - ok 
 https://codeforces.com/contest/1848/problem/A  
 https://codeforces.com/contest/1844/problem/A  
 https://codeforces.com/contest/1847/problem/A  
