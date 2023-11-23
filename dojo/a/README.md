@@ -16,10 +16,10 @@ https://codeforces.com/contest/1856/problem/A - ok
 https://codeforces.com/contest/1855/problem/A - ok 
 https://codeforces.com/contest/1849/problem/A - ok 
 https://codeforces.com/contest/1853/problem/A - ok 
-https://codeforces.com/contest/1848/problem/A  
-https://codeforces.com/contest/1844/problem/A  
-https://codeforces.com/contest/1847/problem/A  
-https://codeforces.com/contest/1845/problem/A  
+https://codeforces.com/contest/1848/problem/A - ok
+https://codeforces.com/contest/1844/problem/A - ok 
+https://codeforces.com/contest/1847/problem/A - ok 
+https://codeforces.com/contest/1845/problem/A - ok 
 https://codeforces.com/contest/1836/problem/A  
 https://codeforces.com/contest/1834/problem/A  
 https://codeforces.com/contest/1838/problem/A  
