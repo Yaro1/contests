@@ -1,31 +1,31 @@
 # Step 1.
-https://codeforces.com/contest/1890/problem/A - ok  
-https://codeforces.com/contest/1888/problem/A - ok  
-https://codeforces.com/contest/1884/problem/A - ok  
-https://codeforces.com/contest/1886/problem/A - ok
-https://codeforces.com/contest/1877/problem/A - ok   
-https://codeforces.com/contest/1875/problem/A - ok  
-https://codeforces.com/contest/1882/problem/A - ok   
-https://codeforces.com/contest/1879/problem/A - ok   
-https://codeforces.com/contest/1870/problem/A - ok
-https://codeforces.com/contest/1867/problem/A - ok
-https://codeforces.com/contest/1869/problem/A - ok
-https://codeforces.com/contest/1858/problem/A - ok 
-https://codeforces.com/contest/1859/problem/A - ok
-https://codeforces.com/contest/1856/problem/A - ok 
-https://codeforces.com/contest/1855/problem/A - ok 
-https://codeforces.com/contest/1849/problem/A - ok 
-https://codeforces.com/contest/1853/problem/A - ok 
-https://codeforces.com/contest/1848/problem/A - ok
-https://codeforces.com/contest/1844/problem/A - ok 
-https://codeforces.com/contest/1847/problem/A - ok 
-https://codeforces.com/contest/1845/problem/A - ok 
-https://codeforces.com/contest/1836/problem/A  
-https://codeforces.com/contest/1834/problem/A  
-https://codeforces.com/contest/1838/problem/A  
-https://codeforces.com/contest/1839/problem/A  
-https://codeforces.com/contest/1831/problem/A  
-https://codeforces.com/contest/1837/problem/A  
+https://codeforces.com/contest/1890/problem/A - ok    
+https://codeforces.com/contest/1888/problem/A - ok    
+https://codeforces.com/contest/1884/problem/A - ok    
+https://codeforces.com/contest/1886/problem/A - ok  
+https://codeforces.com/contest/1877/problem/A - ok     
+https://codeforces.com/contest/1875/problem/A - ok    
+https://codeforces.com/contest/1882/problem/A - ok     
+https://codeforces.com/contest/1879/problem/A - ok     
+https://codeforces.com/contest/1870/problem/A - ok  
+https://codeforces.com/contest/1867/problem/A - ok  
+https://codeforces.com/contest/1869/problem/A - ok  
+https://codeforces.com/contest/1858/problem/A - ok   
+https://codeforces.com/contest/1859/problem/A - ok  
+https://codeforces.com/contest/1856/problem/A - ok   
+https://codeforces.com/contest/1855/problem/A - ok   
+https://codeforces.com/contest/1849/problem/A - ok   
+https://codeforces.com/contest/1853/problem/A - ok   
+https://codeforces.com/contest/1848/problem/A - ok  
+https://codeforces.com/contest/1844/problem/A - ok   
+https://codeforces.com/contest/1847/problem/A - ok   
+https://codeforces.com/contest/1845/problem/A - ok   
+https://codeforces.com/contest/1836/problem/A - ok  
+https://codeforces.com/contest/1834/problem/A - ok   
+https://codeforces.com/contest/1838/problem/A - ok   
+https://codeforces.com/contest/1839/problem/A - ok   
+https://codeforces.com/contest/1831/problem/A - ok  
+https://codeforces.com/contest/1837/problem/A - ok   
 https://codeforces.com/contest/1828/problem/A  
 https://codeforces.com/contest/1832/problem/A  
 https://codeforces.com/contest/1825/problem/A  
