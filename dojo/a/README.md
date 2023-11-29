@@ -27,13 +27,13 @@ https://codeforces.com/contest/1839/problem/A - ok
 https://codeforces.com/contest/1831/problem/A - ok  
 https://codeforces.com/contest/1837/problem/A - ok   
 https://codeforces.com/contest/1828/problem/A - ok   
-https://codeforces.com/contest/1832/problem/A  
-https://codeforces.com/contest/1825/problem/A  
-https://codeforces.com/contest/1826/problem/A  
-https://codeforces.com/contest/1818/problem/A  
-https://codeforces.com/contest/1823/problem/A  
-https://codeforces.com/contest/1821/problem/A  
-https://codeforces.com/contest/1820/problem/A  
+https://codeforces.com/contest/1832/problem/A - ok  
+https://codeforces.com/contest/1825/problem/A - ok   
+https://codeforces.com/contest/1826/problem/A - ok 
+https://codeforces.com/contest/1818/problem/A - ok 
+https://codeforces.com/contest/1823/problem/A - ok   
+https://codeforces.com/contest/1821/problem/A - ok   
+https://codeforces.com/contest/1820/problem/A - ok   
 https://codeforces.com/contest/1816/problem/A  
 https://codeforces.com/contest/1797/problem/A  
 https://codeforces.com/contest/1814/problem/A  
