@@ -29,15 +29,15 @@ https://codeforces.com/contest/1837/problem/A - ok
 https://codeforces.com/contest/1828/problem/A - ok   
 https://codeforces.com/contest/1832/problem/A - ok  
 https://codeforces.com/contest/1825/problem/A - ok   
-https://codeforces.com/contest/1826/problem/A - ok 
+https://codeforces.com/contest/1826/problem/A - ok  
 https://codeforces.com/contest/1818/problem/A - ok 
 https://codeforces.com/contest/1823/problem/A - ok   
 https://codeforces.com/contest/1821/problem/A - ok   
 https://codeforces.com/contest/1820/problem/A - ok   
-https://codeforces.com/contest/1816/problem/A  
-https://codeforces.com/contest/1797/problem/A  
-https://codeforces.com/contest/1814/problem/A  
-https://codeforces.com/contest/1805/problem/A  
+https://codeforces.com/contest/1816/problem/A - ok   
+https://codeforces.com/contest/1797/problem/A - ok   
+https://codeforces.com/contest/1814/problem/A - ok  
+https://codeforces.com/contest/1805/problem/A 
 https://codeforces.com/contest/1808/problem/A  
 https://codeforces.com/contest/1798/problem/A  
 https://codeforces.com/contest/1809/problem/A  
