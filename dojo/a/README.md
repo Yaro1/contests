@@ -44,6 +44,6 @@ https://codeforces.com/contest/1809/problem/A - ok
 https://codeforces.com/contest/1806/problem/A - ok   
 https://codeforces.com/contest/1802/problem/A - ok    
 https://codeforces.com/contest/1794/problem/A - ok     
-https://codeforces.com/contest/1796/problem/A  
-https://codeforces.com/contest/1789/problem/A  
-https://codeforces.com/contest/1795/problem/A  
+https://codeforces.com/contest/1796/problem/A - ok    
+https://codeforces.com/contest/1789/problem/A - ok   
+https://codeforces.com/contest/1795/problem/A - ok  

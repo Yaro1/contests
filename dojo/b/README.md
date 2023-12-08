@@ -1,5 +1,5 @@
 # Step 1.
-https://codeforces.com/contest/1890/problem/B  
+https://codeforces.com/contest/1890/problem/B - ok  
 https://codeforces.com/contest/1888/problem/B  
 https://codeforces.com/contest/1884/problem/B  
 https://codeforces.com/contest/1886/problem/B  
