@@ -26,5 +26,4 @@ def solution():
 
 for _ in range(int(sys.stdin.readline().split()[0])):
     solution()
-t = int(input())
     
