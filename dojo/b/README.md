@@ -4,7 +4,7 @@ https://codeforces.com/contest/1888/problem/B - ok
 https://codeforces.com/contest/1884/problem/B - ok   
 https://codeforces.com/contest/1886/problem/B - ok   
 https://codeforces.com/contest/1877/problem/B - ok   
-https://codeforces.com/contest/1875/problem/B  
+https://codeforces.com/contest/1875/problem/B - ok   
 https://codeforces.com/contest/1882/problem/B  
 https://codeforces.com/contest/1879/problem/B  
 https://codeforces.com/contest/1870/problem/B  
