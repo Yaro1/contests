@@ -20,10 +20,6 @@ def solution():
     print(s)
 
 
-    
-
-
-
 for _ in range(int(sys.stdin.readline().split()[0])):
     solution()
     
