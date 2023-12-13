@@ -5,10 +5,10 @@ https://codeforces.com/contest/1884/problem/B - ok
 https://codeforces.com/contest/1886/problem/B - ok   
 https://codeforces.com/contest/1877/problem/B - ok   
 https://codeforces.com/contest/1875/problem/B - ok   
-https://codeforces.com/contest/1882/problem/B  
-https://codeforces.com/contest/1879/problem/B  
-https://codeforces.com/contest/1870/problem/B  
-https://codeforces.com/contest/1867/problem/B  
+https://codeforces.com/contest/1882/problem/B - ok  
+https://codeforces.com/contest/1879/problem/B - ok   
+https://codeforces.com/contest/1870/problem/B - ok   
+https://codeforces.com/contest/1867/problem/B - ok   
 https://codeforces.com/contest/1869/problem/B  
 https://codeforces.com/contest/1858/problem/B  
 https://codeforces.com/contest/1859/problem/B  
