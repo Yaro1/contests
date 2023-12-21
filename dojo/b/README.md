@@ -12,10 +12,10 @@ https://codeforces.com/contest/1867/problem/B - ok
 https://codeforces.com/contest/1869/problem/B - ok  
 https://codeforces.com/contest/1858/problem/B - ok   
 https://codeforces.com/contest/1859/problem/B - ok   
-https://codeforces.com/contest/1856/problem/B  
-https://codeforces.com/contest/1855/problem/B  
-https://codeforces.com/contest/1849/problem/B  
-https://codeforces.com/contest/1853/problem/B  
+https://codeforces.com/contest/1856/problem/B - ok   
+https://codeforces.com/contest/1855/problem/B - ok   
+https://codeforces.com/contest/1849/problem/B - ok   
+https://codeforces.com/contest/1853/problem/B - ok   
 https://codeforces.com/contest/1848/problem/B  
 https://codeforces.com/contest/1844/problem/B  
 https://codeforces.com/contest/1847/problem/B  
