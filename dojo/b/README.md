@@ -20,8 +20,8 @@ https://codeforces.com/contest/1848/problem/B - ok
 https://codeforces.com/contest/1844/problem/B - ok   
 https://codeforces.com/contest/1847/problem/B - ok   
 https://codeforces.com/contest/1845/problem/B - ok   
-https://codeforces.com/contest/1836/problem/B  
-https://codeforces.com/contest/1834/problem/B  
+https://codeforces.com/contest/1836/problem/B - ok  
+https://codeforces.com/contest/1834/problem/B - ok   
 https://codeforces.com/contest/1838/problem/B  
 https://codeforces.com/contest/1839/problem/B  
 https://codeforces.com/contest/1831/problem/B  
