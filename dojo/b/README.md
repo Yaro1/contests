@@ -27,7 +27,7 @@ https://codeforces.com/contest/1839/problem/B - ok
 https://codeforces.com/contest/1831/problem/B - ok   
 https://codeforces.com/contest/1837/problem/B - ok   
 https://codeforces.com/contest/1828/problem/B - ok   
-https://codeforces.com/contest/1832/problem/B  
+https://codeforces.com/contest/1832/problem/B - ok  
 https://codeforces.com/contest/1825/problem/B  
 https://codeforces.com/contest/1826/problem/B  
 https://codeforces.com/contest/1818/problem/B  
