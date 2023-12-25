@@ -23,10 +23,10 @@ https://codeforces.com/contest/1845/problem/B - ok
 https://codeforces.com/contest/1836/problem/B - ok  
 https://codeforces.com/contest/1834/problem/B - ok   
 https://codeforces.com/contest/1838/problem/B - ok   
-https://codeforces.com/contest/1839/problem/B  
-https://codeforces.com/contest/1831/problem/B  
-https://codeforces.com/contest/1837/problem/B  
-https://codeforces.com/contest/1828/problem/B  
+https://codeforces.com/contest/1839/problem/B - ok
+https://codeforces.com/contest/1831/problem/B - ok   
+https://codeforces.com/contest/1837/problem/B - ok   
+https://codeforces.com/contest/1828/problem/B - ok   
 https://codeforces.com/contest/1832/problem/B  
 https://codeforces.com/contest/1825/problem/B  
 https://codeforces.com/contest/1826/problem/B  
