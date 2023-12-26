@@ -31,11 +31,11 @@ https://codeforces.com/contest/1832/problem/B - ok
 https://codeforces.com/contest/1825/problem/B - ok   
 https://codeforces.com/contest/1826/problem/B - ok   
 https://codeforces.com/contest/1818/problem/B - ok   
-https://codeforces.com/contest/1823/problem/B  
-https://codeforces.com/contest/1821/problem/B  
-https://codeforces.com/contest/1820/problem/B  
-https://codeforces.com/contest/1816/problem/B  
-https://codeforces.com/contest/1797/problem/B  
+https://codeforces.com/contest/1823/problem/B - ok   
+https://codeforces.com/contest/1821/problem/B - ok  
+https://codeforces.com/contest/1820/problem/B - ok   
+https://codeforces.com/contest/1816/problem/B - ok  
+https://codeforces.com/contest/1797/problem/B - ok   
 https://codeforces.com/contest/1814/problem/B  
 https://codeforces.com/contest/1805/problem/B  
 https://codeforces.com/contest/1808/problem/B  
