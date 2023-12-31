@@ -41,9 +41,9 @@ https://codeforces.com/contest/1805/problem/B - ok
 https://codeforces.com/contest/1808/problem/B - ok   
 https://codeforces.com/contest/1798/problem/B - ok   
 https://codeforces.com/contest/1809/problem/B - ok   
-https://codeforces.com/contest/1806/problem/B  
-https://codeforces.com/contest/1802/problem/B  
-https://codeforces.com/contest/1794/problem/B  
-https://codeforces.com/contest/1796/problem/B  
-https://codeforces.com/contest/1789/problem/B  
-https://codeforces.com/contest/1795/problem/B  
+https://codeforces.com/contest/1806/problem/B - ok   
+https://codeforces.com/contest/1802/problem/B - ok   
+https://codeforces.com/contest/1794/problem/B - ok  
+https://codeforces.com/contest/1796/problem/B - ok   
+https://codeforces.com/contest/1789/problem/B - ok   
+https://codeforces.com/contest/1795/problem/B - ok   
