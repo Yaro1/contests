@@ -2,11 +2,11 @@
 https://codeforces.com/contest/1890/problem/C - ok  
 https://codeforces.com/contest/1888/problem/C - ok   
 https://codeforces.com/contest/1884/problem/C - ok   
-https://codeforces.com/contest/1886/problem/C  
-https://codeforces.com/contest/1877/problem/C  
-https://codeforces.com/contest/1875/problem/C  
-https://codeforces.com/contest/1882/problem/C  
-https://codeforces.com/contest/1879/problem/C  
+https://codeforces.com/contest/1886/problem/C - ok    
+https://codeforces.com/contest/1877/problem/C - ok   
+https://codeforces.com/contest/1875/problem/C - ok  
+https://codeforces.com/contest/1882/problem/C - ok  
+https://codeforces.com/contest/1879/problem/C - ok   
 https://codeforces.com/contest/1870/problem/C  
 https://codeforces.com/contest/1867/problem/C  
 https://codeforces.com/contest/1869/problem/C  
