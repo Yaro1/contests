@@ -10,9 +10,9 @@ https://codeforces.com/contest/1879/problem/C - ok
 https://codeforces.com/contest/1870/problem/C - ok   
 https://codeforces.com/contest/1867/problem/C - ok   
 https://codeforces.com/contest/1869/problem/C - ok   
-https://codeforces.com/contest/1858/problem/C  
-https://codeforces.com/contest/1859/problem/C  
-https://codeforces.com/contest/1856/problem/C  
+https://codeforces.com/contest/1858/problem/C - ok   
+https://codeforces.com/contest/1859/problem/C - ok    
+https://codeforces.com/contest/1856/problem/C - ok  
 https://codeforces.com/contest/1855/problem/C  
 https://codeforces.com/contest/1849/problem/C  
 https://codeforces.com/contest/1853/problem/C  
