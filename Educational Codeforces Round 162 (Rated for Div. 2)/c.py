@@ -1,12 +1,22 @@
 import sys
-input = sys.stdin.readline
-t = int(input())
-for _ in range(t):
+
+input = sys.stdin.buffer.readline
+
+for _ in range(int(input())):
     n, q = map(int, input().split())
+
     c = list(map(int, input().split()))
-    S = [0] * (n + 1)
+
+    p = [0] * (n+1)
     for i in range(n):
-        S[i + 1] = S[i] + (-1 if c[i] == 1 else c[i] - 1)
+        p[i] = p[i-1] + c[i]-1 - (c[i] == 1)
+
     for _ in range(q):
         l, r = map(int, input().split())
-        print("YES" if l != r and S[r] - S[l - 1] >= 0 else "NO")
+        r -= 1
+        l -= 1
+
+        if l == r or p[r] - p[l-1] < 0:
+            print("NO")
+        else:
+            print("YES")
